@@ -18,7 +18,7 @@ open index.html  # Or run a local server
 ```
 
 ## Usage Examples
-💡 No code snippets yet, but we can include API usage or AI-editing features later!
+API usage or AI-editing.
 
 ## Contributors
 - 👤 Prod by Lewx – Founder & Lead Creative
