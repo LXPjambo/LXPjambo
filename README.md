@@ -6,7 +6,7 @@ LXP is a high-end videography and media brand focused on delivering unmatched qu
 -  High-quality videography and content creation.
 - AI-powered editing for faster, more efficient post-production.
 -  Seamless booking and client collaboration.
-  . Brand strategy and content marketing solutions.
+ . Brand strategy and content marketing solutions.
 
 ## Installation & Running the Project (For Website Developers)
 If users want to clone the website repo and run it locally:
